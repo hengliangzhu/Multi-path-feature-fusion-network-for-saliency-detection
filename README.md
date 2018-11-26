@@ -9,5 +9,5 @@ benchmarks indicate that our saliency model is effective and outperforms state-o
 
 
 Downlaod:
-You can also downlaod from the link：https://pan.baidu.com/s/1eWRB08QPx9FbYRwLaYl0aQ
+You can also downlaod from the [Baidu Yun]：[https://pan.baidu.com/s/1eWRB08QPx9FbYRwLaYl0aQ]
 
